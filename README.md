@@ -9,6 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * Sattlelite
   * Calculating Index  
   * Data Processing
+  * Maching Learning
 
 ---
 
@@ -43,4 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [netcdf4-python](https://github.com/Unidata/netcdf4-python): python/numpy interface to the netCDF C library
   * [xarray](http://xarray.pydata.org/en/stable/): N-D labeled arrays and datasets in Python
  
+## Mearning Learning
+  * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
+  * [EarthML](https://github.com/pyviz-topics/EarthML): Tools for working with machine learning in earth science
 
