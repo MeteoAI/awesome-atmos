@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * Calculating Index  
   * Data Processing
   * Maching Learning
+  * Visualization
 
 ---
 
@@ -43,8 +44,18 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [PseudoNetcdf](https://github.com/barronh/pseudonetcdf): PseudoNetCDF like NetCDF except for many scientific format backends
   * [netcdf4-python](https://github.com/Unidata/netcdf4-python): python/numpy interface to the netCDF C library
   * [xarray](http://xarray.pydata.org/en/stable/): N-D labeled arrays and datasets in Python
+  * [PyNio](https://github.com/NCAR/pynio): PyNIO is a multi-format data I/O package with a NetCDF-style interface
  
 ## Mearning Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
   * [EarthML](https://github.com/pyviz-topics/EarthML): Tools for working with machine learning in earth science
+
+## Visualization
+  * [matplotlib](https://github.com/matplotlib/matplotlib): plotting with Python
+  * [PyNGL](https://github.com/NCAR/pyngl): PyNGL ("pingle") is a Python module built on top of NCL's graphics library.
+  * [Seaborn](https://github.com/mwaskom/seaborn): Statistical data visualization using matplotlib
+  * [Basemap](https://matplotlib.org/basemap/)
+  * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) 
+  * [holoviews](https://github.com/pyviz/holoviews): make data analysis and visualization seamless and simple
+
 
