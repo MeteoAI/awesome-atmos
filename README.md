@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [PseudoNetcdf](https://github.com/barronh/pseudonetcdf): PseudoNetCDF like NetCDF except for many scientific format backends
   * [netcdf4-python](https://github.com/Unidata/netcdf4-python): python/numpy interface to the netCDF C library
   * [xarray](http://xarray.pydata.org/en/stable/): N-D labeled arrays and datasets in Python
+  * [iris](https://scitools.org.uk/iris/docs/v1.9.0/html/index.html): in- memory manipulation of labeled arrays supported by the UK Met office
   * [PyNio](https://github.com/NCAR/pynio): PyNIO is a multi-format data I/O package with a NetCDF-style interface
   * [xESMF](https://github.com/JiaweiZhuang/xESMF): Universal Regridder for Geospatial Data 
   * [geopandas](https://github.com/geopandas/geopandas): Python tools for geographic data
