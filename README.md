@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [iris](https://scitools.org.uk/iris/docs/v1.9.0/html/index.html): in- memory manipulation of labeled arrays supported by the UK Met office
   * [PyNio](https://github.com/NCAR/pynio): PyNIO is a multi-format data I/O package with a NetCDF-style interface
   * [xESMF](https://github.com/JiaweiZhuang/xESMF): Universal Regridder for Geospatial Data 
+  * [esmlab-regrid](https://github.com/NCAR/esmlab-regrid): a lightweight library for regridding in Python.
   * [geopandas](https://github.com/geopandas/geopandas): Python tools for geographic data
   * [PySAL](https://github.com/pysal/PySAL): Python spatial analysis library
   * [cdat](https://github.com/CDAT/cdat): Community Data Analysis Tools  
@@ -69,5 +70,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 ## Resources
   * [pangeo](https://pangeo.io/): A community platform for Big Data geoscience
-
+  * [ECCO](https://ecco-v4-python-tutorial.readthedocs.io/index.html): global ocean and sea-ice state estimate tutorial. 
 
