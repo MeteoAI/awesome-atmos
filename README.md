@@ -38,7 +38,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Metpy](https://unidata.github.io/MetPy/latest/index.html): To calculate many of atmos index
   * [Sharppy](https://github.com/sharppy/SHARPpy): Sounding/Hodograph Analysis and Research Program
   * [atmos](https://github.com/atmos-python/atmos): An atmospheric sciences library for Python
-  
+
 ## Data Processing/Anslysis
   * [siphon](https://unidata.github.io/siphon/latest/index.html): Siphon is a collection of Python utilities for downloading data from remote data services
   * [cfgrib](https://github.com/ecmwf/cfgrib): processing grib format file
@@ -53,9 +53,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [geopandas](https://github.com/geopandas/geopandas): Python tools for geographic data
   * [PySAL](https://github.com/pysal/PySAL): Python spatial analysis library
   * [cdat](https://github.com/CDAT/cdat): Community Data Analysis Tools  
+  * [aospy](https://github.com/spencerahill/aospy): Python package for automated analysis and management of gridded climate data
 
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
+  * [IDEA Lab](http://www.mcgovern-fagg.org/idea/index.html): Research in data science and applied artificial intelligence/machine learning with a focus on high-impact real-world applications
   * [EarthML](https://github.com/pyviz-topics/EarthML): Tools for working with machine learning in earth science
 
 ## Visualization
@@ -71,4 +73,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Resources
   * [pangeo](https://pangeo.io/): A community platform for Big Data geoscience
   * [ECCO](https://ecco-v4-python-tutorial.readthedocs.io/index.html): global ocean and sea-ice state estimate tutorial. 
+  * [NMC-WFT](https://github.com/nmcdev): The R & D Center for Weather Forecasting Technology in NMC, CMA
+  * [Python & Practical Application on Climate Variability Studies](https://github.com/royalosyin/Python-Practical-Application-on-Climate-Variability-Studies): Main objective of this tutorial is the transference of know-how in practical applications and management of statistical tools commonly used to explore meteorological time series, focusing on applications to study issues related with the climate variability and climate change. 
+  * [Python for Climate and Meteorological Data Analysis and Visualisation](https://github.com/nicolasfauchereau/Auckland_Python_Workshop): Python for Climate and Meteorological Data Analysis and Visualisation.
 
