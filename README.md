@@ -76,4 +76,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [NMC-WFT](https://github.com/nmcdev): The R & D Center for Weather Forecasting Technology in NMC, CMA
   * [Python & Practical Application on Climate Variability Studies](https://github.com/royalosyin/Python-Practical-Application-on-Climate-Variability-Studies): Main objective of this tutorial is the transference of know-how in practical applications and management of statistical tools commonly used to explore meteorological time series, focusing on applications to study issues related with the climate variability and climate change. 
   * [Python for Climate and Meteorological Data Analysis and Visualisation](https://github.com/nicolasfauchereau/Auckland_Python_Workshop): Python for Climate and Meteorological Data Analysis and Visualisation.
+  * [Example notebooks showing how to work with ECMWF services and data](https://github.com/ecmwf/notebook-examples)
 
