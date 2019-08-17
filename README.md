@@ -5,6 +5,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 * Awesome Atmosphere
   * Numerical Model
+  * Data Assimilation
   * Radar
   * Sattlelite
   * Calculating Index  
@@ -20,6 +21,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [salem](https://salem.readthedocs.io/en/latest/): Model results post-processing, including WRF pre/post processing
   * [geos2cmaq](https://github.com/barronh/geos2cmaq): Map GEOS-Chem results to CMAQ boundary condition
   * [ingest_cm1](https://github.com/cwebster2/ingest_cm1): A Fortran library to read CM1 output files
+  * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing): Project repository for the CESM python based post-processing code, documentation and issues tracking.
+
+## Data Assimilation
+  * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
+  * [pyWRFDART](https://github.com/lmadaus/pyWRFDART): A collection of Python scripts for running WRF with the DART data assimilation system
+  * [PSU_WRF_EnKF](https://github.com/myying/PSU_WRF_EnKF): PSU WRF Ensemble-Variational Data Assimilation System
 
 ## Radar
   * [PyART](https://github.com/ARM-DOE/pyart): A data model driven interactive toolkit for working with weather radar data.
