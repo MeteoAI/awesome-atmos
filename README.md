@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * Numerical Model
   * Data Assimilation
   * Radar
-  * Sattlelite
+  * Satellite
   * Calculating Index  
   * Data Processing/Analysis
   * Machine Learning
@@ -36,7 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [SingleDop](https://github.com/nasa/DualPol): Single Doppler Retrieval Toolkit.
   * [ARTView](https://github.com/nguy/artview): Interactive radar viewing browser.
 
-## Sattlelite
+## Satellite
   * [satpy](https://github.com/pytroll/satpy): For Multiple sattlelite data product
   * [PyCAMA](https://dev.knmi.nl/projects/pycama): For TROPOMI Sentinel-5P Level2 product
   * [pys5p](https://github.com/rmvanhees/pys5p): For TROPOMI Sentinel-5P Level1B product
