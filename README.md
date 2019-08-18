@@ -12,6 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * Data Processing/Analysis
   * Machine Learning
   * Visualization
+  * Resources
 
 ---
 
@@ -66,6 +67,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
   * [IDEA Lab](http://www.mcgovern-fagg.org/idea/index.html): Research in data science and applied artificial intelligence/machine learning with a focus on high-impact real-world applications
   * [EarthML](https://github.com/pyviz-topics/EarthML): Tools for working with machine learning in earth science
+  * [sklearn](https://scikit-learn.org/stable/index.html): A Python module for machine learning built on top of SciPy.
+  * [keras](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/CNTK) and [Theano](https://github.com/Theano/Theano).
+  * [TensorFlow](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+  * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+  * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+  * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+  * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
 ## Visualization
   * [matplotlib](https://github.com/matplotlib/matplotlib): plotting with Python
