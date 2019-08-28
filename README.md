@@ -89,7 +89,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Seaborn](https://github.com/mwaskom/seaborn): Statistical data visualization using matplotlib
   * [Basemap](https://matplotlib.org/basemap/): Plot on map projections (with coastlines and political boundaries) using matplotlib.
   * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/): Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.
-  * [cmaps](Make it easier to use user defined colormaps in matplotlib.Default colormaps are from [NCL](http://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) website.)
+  * [cmaps](https://github.com/hhuangwx/cmaps)Make it easier to use user defined colormaps in matplotlib.Default colormaps are from [NCL](http://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) website.
   * [holoviews](https://github.com/pyviz/holoviews): make data analysis and visualization seamless and simple
 
 ---
