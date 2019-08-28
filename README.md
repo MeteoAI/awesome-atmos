@@ -23,6 +23,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [geos2cmaq](https://github.com/barronh/geos2cmaq): Map GEOS-Chem results to CMAQ boundary condition
   * [ingest_cm1](https://github.com/cwebster2/ingest_cm1): A Fortran library to read CM1 output files
   * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing): Project repository for the CESM python based post-processing code, documentation and issues tracking.
+  * [SuPy](https://github.com/sunt05/SuPy): a Python-enhanced urban climate model with [SUEWS](https://github.com/Urban-Meteorology-Reading/SUEWS) as its computation core.
 
 ## Data Assimilation
   * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
