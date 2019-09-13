@@ -83,6 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
   * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
   * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+  * [hur-detect](https://github.com/eracah/hur-detect): Deep Semi-Supervised Object Detection for Extreme Weather Events.
 
 ## Visualization
   * [matplotlib](https://github.com/matplotlib/matplotlib): plotting with Python
