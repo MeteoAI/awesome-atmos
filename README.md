@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * Numerical Model
   * Data Assimilation
   * Radar
-  * Sattlelite
+  * Satellite
   * Calculating Index  
   * Data Processing/Analysis
   * Machine Learning
@@ -23,6 +23,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [geos2cmaq](https://github.com/barronh/geos2cmaq): Map GEOS-Chem results to CMAQ boundary condition
   * [ingest_cm1](https://github.com/cwebster2/ingest_cm1): A Fortran library to read CM1 output files
   * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing): Project repository for the CESM python based post-processing code, documentation and issues tracking.
+  * [SuPy](https://github.com/sunt05/SuPy): a Python-enhanced urban climate model with [SUEWS](https://github.com/Urban-Meteorology-Reading/SUEWS) as its computation core.
 
 ## Data Assimilation
   * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
@@ -35,8 +36,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [DualPol](https://github.com/nasa/DualPol): Python Interface to Dual-Pol Radar Algorithms.
   * [SingleDop](https://github.com/nasa/DualPol): Single Doppler Retrieval Toolkit.
   * [ARTView](https://github.com/nguy/artview): Interactive radar viewing browser.
+  * [PyCINRAD](https://github.com/CyanideCN/PyCINRAD):Decode CINRAD radar data and visualize.
 
-## Sattlelite
+## Satellite
   * [satpy](https://github.com/pytroll/satpy): For Multiple sattlelite data product
   * [PyCAMA](https://dev.knmi.nl/projects/pycama): For TROPOMI Sentinel-5P Level2 product
   * [pys5p](https://github.com/rmvanhees/pys5p): For TROPOMI Sentinel-5P Level1B product
@@ -59,10 +61,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [xESMF](https://github.com/JiaweiZhuang/xESMF): Universal Regridder for Geospatial Data 
   * [esmlab-regrid](https://github.com/NCAR/esmlab-regrid): a lightweight library for regridding in Python.
   * [geopandas](https://github.com/geopandas/geopandas): Python tools for geographic data
+  * [Pandas](https://pandas.pydata.org/):Data structures and computational tools for working with tabular datasets
   * [PySAL](https://github.com/pysal/PySAL): Python spatial analysis library
   * [cdat](https://github.com/CDAT/cdat): Community Data Analysis Tools  
   * [aospy](https://github.com/spencerahill/aospy): Python package for automated analysis and management of gridded climate data
-
+  * [climlab](https://climlab.readthedocs.io/en/latest/):Process-oriented climate modeling
+  * [CDMS](https://cdms.readthedocs.io/en/latest/index.html):Python Object-oriented data management system for multidimensional, gridded data used in climate analysis and simulation
+  * [eof2](https://github.com/ajdawson/eof2):EOF analysis in Python
+  * [statsmodels](http://www.statsmodels.org/devel/):statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models
+  * [Pysteps](https://pysteps.readthedocs.io/en/latest/auto_examples/index.html):an open-source Python library for probabilistic precipitation nowcasting
+  * [QGIS](https://qgis.org/):C++ GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
   * [IDEA Lab](http://www.mcgovern-fagg.org/idea/index.html): Research in data science and applied artificial intelligence/machine learning with a focus on high-impact real-world applications
@@ -75,6 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
   * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
   * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+  * [hur-detect](https://github.com/eracah/hur-detect): Deep Semi-Supervised Object Detection for Extreme Weather Events.
 
 ## Visualization
   * [matplotlib](https://github.com/matplotlib/matplotlib): plotting with Python
@@ -82,6 +91,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Seaborn](https://github.com/mwaskom/seaborn): Statistical data visualization using matplotlib
   * [Basemap](https://matplotlib.org/basemap/): Plot on map projections (with coastlines and political boundaries) using matplotlib.
   * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/): Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.
+  * [cmaps](https://github.com/hhuangwx/cmaps):Make it easier to use user defined colormaps in matplotlib.Default colormaps are from [NCL](http://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) website.
   * [holoviews](https://github.com/pyviz/holoviews): make data analysis and visualization seamless and simple
 
 ---
