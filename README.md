@@ -96,6 +96,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/): Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.
   * [cmaps](https://github.com/hhuangwx/cmaps):Make it easier to use user defined colormaps in matplotlib.Default colormaps are from [NCL](http://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) website.
   * [holoviews](https://github.com/pyviz/holoviews): make data analysis and visualization seamless and simple
+  * [earth wind map](https://github.com/cambecc/earth): a project to visualize global weather conditions [http://earth.nullschool.net](http://earth.nullschool.net/)
 
 ---
 
