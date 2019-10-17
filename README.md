@@ -24,6 +24,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [ingest_cm1](https://github.com/cwebster2/ingest_cm1): A Fortran library to read CM1 output files
   * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing): Project repository for the CESM python based post-processing code, documentation and issues tracking.
   * [SuPy](https://github.com/sunt05/SuPy): a Python-enhanced urban climate model with [SUEWS](https://github.com/Urban-Meteorology-Reading/SUEWS) as its computation core.
+  * [xskillscore](https://github.com/raybellwaves/xskillscore): xskillscore is an open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
+  * [climpred](https://climpred.readthedocs.io/): An xarray wrapper for analysis of ensemble forecast models for climate prediction.
+  * [esmlab](https://esmlab.readthedocs.io/): Tools for working with earth system multi-model analyses with xarray.
 
 ## Data Assimilation
   * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
