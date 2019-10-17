@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [statsmodels](http://www.statsmodels.org/devel/):statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models
   * [Pysteps](https://pysteps.readthedocs.io/en/latest/auto_examples/index.html):an open-source Python library for probabilistic precipitation nowcasting
   * [QGIS](https://qgis.org/):C++ GIS platform to visualize, manage, edit, analyse data, and compose printable maps
+
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
   * [IDEA Lab](http://www.mcgovern-fagg.org/idea/index.html): Research in data science and applied artificial intelligence/machine learning with a focus on high-impact real-world applications
@@ -87,6 +88,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
   * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
   * [hur-detect](https://github.com/eracah/hur-detect): Deep Semi-Supervised Object Detection for Extreme Weather Events.
+  * [pyod](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection) 
 
 ## Visualization
   * [matplotlib](https://github.com/matplotlib/matplotlib): plotting with Python
