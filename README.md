@@ -51,6 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Metpy](https://unidata.github.io/MetPy/latest/index.html): To calculate many of atmos index
   * [Sharppy](https://github.com/sharppy/SHARPpy): Sounding/Hodograph Analysis and Research Program
   * [atmos](https://github.com/atmos-python/atmos): An atmospheric sciences library for Python
+  * [GeoCAT-comp](https://github.com/NCAR/geocat-comp): GeoCAT-comp is the computational component of the GeoCAT project. GeoCAT-comp wraps NCL's non-WRF Fortran routines into Python.
 
 ## Data Processing/Anslysis
   * [siphon](https://unidata.github.io/siphon/latest/index.html): Siphon is a collection of Python utilities for downloading data from remote data services
