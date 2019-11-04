@@ -75,6 +75,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [statsmodels](http://www.statsmodels.org/devel/):statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models
   * [Pysteps](https://pysteps.readthedocs.io/en/latest/auto_examples/index.html):an open-source Python library for probabilistic precipitation nowcasting
   * [QGIS](https://qgis.org/):C++ GIS platform to visualize, manage, edit, analyse data, and compose printable maps
+  * [pyproj](https://github.com/pyproj4/pyproj):Python interface to PROJ (cartographic projections and coordinate transformations library).
 
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
