@@ -27,6 +27,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [xskillscore](https://github.com/raybellwaves/xskillscore): xskillscore is an open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
   * [climpred](https://climpred.readthedocs.io/): An xarray wrapper for analysis of ensemble forecast models for climate prediction.
   * [esmlab](https://esmlab.readthedocs.io/): Tools for working with earth system multi-model analyses with xarray.
+  * [pysplit](https://github.com/mscross/pysplit): A package for HYSPLIT air parcel trajectory analysis.
 
 ## Data Assimilation
   * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
