@@ -77,6 +77,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [Pysteps](https://pysteps.readthedocs.io/en/latest/auto_examples/index.html):an open-source Python library for probabilistic precipitation nowcasting
   * [QGIS](https://qgis.org/):C++ GIS platform to visualize, manage, edit, analyse data, and compose printable maps
   * [pyproj](https://github.com/pyproj4/pyproj):Python interface to PROJ (cartographic projections and coordinate transformations library).
+  * [DASK](https://dask.org/): advanced parallelism for analytics, enabling performance at scale for the tools you love.
 
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
