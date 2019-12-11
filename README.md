@@ -41,6 +41,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [SingleDop](https://github.com/nasa/DualPol): Single Doppler Retrieval Toolkit.
   * [ARTView](https://github.com/nguy/artview): Interactive radar viewing browser.
   * [PyCINRAD](https://github.com/CyanideCN/PyCINRAD):Decode CINRAD radar data and visualize.
+  * [pyrad](https://github.com/meteoswiss-mdr/pyrad): Pyrad is a real-time data processing framework developed by MeteoSwiss.
+  * [PyCWR](https://github.com/YvZheng/pycwr): The China Weather Radar Toolkit, support most of China's radar formats(WSR98D, CINRAD/SA/SB/CB, CINRAD/CC/CCJ, CINRAD/SC/CD)
 
 ## Satellite
   * [satpy](https://github.com/pytroll/satpy): For Multiple sattlelite data product
