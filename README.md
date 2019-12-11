@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [PyCAMA](https://dev.knmi.nl/projects/pycama): For TROPOMI Sentinel-5P Level2 product
   * [pys5p](https://github.com/rmvanhees/pys5p): For TROPOMI Sentinel-5P Level1B product
   * [pyresample](https://pyresample.readthedocs.io/en/latest/): resample sattlelite image
+  * [TorchSat](https://github.com/sshuair/torchsat):TorchSat is an open-source deep learning framework for satellite imagery analysis based on PyTorch.
 
 ## Calculating Index
   * [Metpy](https://unidata.github.io/MetPy/latest/index.html): To calculate many of atmos index
