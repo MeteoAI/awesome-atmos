@@ -28,6 +28,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [climpred](https://climpred.readthedocs.io/): An xarray wrapper for analysis of ensemble forecast models for climate prediction.
   * [esmlab](https://esmlab.readthedocs.io/): Tools for working with earth system multi-model analyses with xarray.
   * [pysplit](https://github.com/mscross/pysplit): A package for HYSPLIT air parcel trajectory analysis.
+  * [MET](https://github.com/NCAR/MET): Model Evaluation Tools
+  * [MONET](https://github.com/noaa-oar-arl/MONET): The Model and Observation Evaluation Toolkit (MONET). Currently, it handles CMAQ 4.7.1+, EPA AQS surface data, EPA AirNow, and the IMPROVE Aerosol data network. Current effort is being added to add in the ASOS network, the Climate Reference Network, sonde data and more. It will compute statistics, make time series, spatial and scatter plots, and more!
 
 ## Data Assimilation
   * [DAPPER](https://github.com/nansencenter/DAPPER): Data Assimilation with Python: a Package for Experimental Research (DAPPER). DAPPER enables the numerical investigation of DA methods through a variety of typical test cases and statistics.
