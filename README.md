@@ -83,6 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
   * [QGIS](https://qgis.org/):C++ GIS platform to visualize, manage, edit, analyse data, and compose printable maps
   * [pyproj](https://github.com/pyproj4/pyproj):Python interface to PROJ (cartographic projections and coordinate transformations library).
   * [DASK](https://dask.org/): advanced parallelism for analytics, enabling performance at scale for the tools you love.
+  * [tobac](https://github.com/climate-processes/tobac): tobac is a Python package for identifiying, tracking and analysing of clouds in different types of gridded datasets, i.e. 3D model output from cloud resolving model simulations or 2D data of satellite observations.
 
 ## Machine Learning
   * [hageleslag](https://github.com/djgagne/hagelslag): Hagelslag is an object-based severe storm hazard forecasting system
